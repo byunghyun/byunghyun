@@ -18,5 +18,6 @@
 - npm : <a href='https://www.npmjs.com/~byunghyun'>https://www.npmjs.com/~byunghyun</a>
 - portpolio : http://craham.pe.kr
 - blog : https://velog.io/@byunghyun
+- email : eer3481@gmail.com
 
 
