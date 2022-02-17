@@ -3,7 +3,5 @@
 <!-- [![byunghyun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=byunghyun&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/byunghyun)
  -->
  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyunghyun)](https://hits.seeyoufarm.com)
+![](https://komarev.com/ghpvc/?username=byunghyun&color=red)
 # React FrontEnd Developer
-
-<img src="https://raw.githubusercontent.com/byunghyun/byunghyun/8d3f3137bd62edc2fa808967d294bad968927510/images/javascript.svg"/>
