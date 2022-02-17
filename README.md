@@ -6,4 +6,4 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyunghyun)](https://hits.seeyoufarm.com)
 # React FrontEnd Developer
 
-<img src="https://github.com/byunghyun/byunghyun/tree/main/images/javascript.svg"/>
+<img src="https://raw.githubusercontent.com/byunghyun/byunghyun/8d3f3137bd62edc2fa808967d294bad968927510/images/javascript.svg"/>
