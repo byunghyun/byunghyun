@@ -10,3 +10,6 @@
 - React (Next.js)
 - Vanila Javascript
 - Nodejs (Express)
+- Firebase
+- SQL
+- NOSQL
