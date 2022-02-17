@@ -6,4 +6,4 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyunghyun)](https://hits.seeyoufarm.com)
 # React FrontEnd Developer
 
-<img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
+<img src="https://github.com/byunghyun/byunghyun/tree/main/images/javascript.svg"/>
