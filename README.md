@@ -11,5 +11,5 @@
 - Vanila Javascript
 - Nodejs (Express)
 - Firebase
-- SQL
-- NOSQL
+- SQL (Mysql, mariaDB)
+- NOSQL (mongoDB)
