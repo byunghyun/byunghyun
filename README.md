@@ -16,5 +16,7 @@
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=byunghyun) -->
 - npm : <a href='https://www.npmjs.com/~byunghyun'>https://www.npmjs.com/~byunghyun</a>
+- portpolio : http://craham.pe.kr
+- blog : https://velog.io/@byunghyun
 
 
