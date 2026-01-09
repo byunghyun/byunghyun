@@ -4,9 +4,6 @@
  -->
  
 ![](https://komarev.com/ghpvc/?username=byunghyun&color=red)
-<!-- 
-[![byunghyun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=byunghyun&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/byunghyun) -->
-![trophy](https://github-profile-trophy.vercel.app/?username=byunghyun)
 
 ![React](https://img.shields.io/badge/-React(Next.js)-007acc?style=for-the-badge&logo=react&logoColor=fff)
 ![Typescript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
